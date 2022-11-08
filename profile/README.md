@@ -4,7 +4,4 @@
 
 <h3 align="center">🍿 Kenya Coding Community</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
